@@ -15,18 +15,27 @@
 
 <div align="center">
   <!-- GitHub Activity Graph -->
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=somani-rahul&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=somani-rahul&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=somani-rahul&theme=github-dark&point=00000000&radius=16">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=somani-rahul&theme=github-light&point=00000000&radius=16">
+    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=somani-rahul&theme=github-dark&point=00000000&radius=16">
+  </picture>
 </div>
+
 <div align="center">
 <!-- GitHub Streak Stats -->
 
 [![GitHub Streak - Dark Mode](https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only)](https://github.com/somani-rahul#gh-dark-mode-only)
 [![GitHub Streak - Light Mode](https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=20&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only)](https://github.com/somani-rahul#gh-light-mode-only)
 
+<div align="center">
   <!-- GitHub Most Used Languages -->
-  ![Top Languages - Dark Mode](https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact#gh-dark-mode-only)
-  ![Top Languages - Light Mode](https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=vue&layout=compact#gh-light-mode-only)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=vue&layout=compact">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact">
+  </picture>
+</div>
 
 </div>
 
@@ -59,10 +68,15 @@
 <br>
 
 <div align="center">
-  
+
+  <div align="center">
   <!-- Daily Quotes -->
-  ![Daily Quotes - Dark Mode](https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms#gh-dark-mode-only)
-  ![Daily Quotes - Light Mode](https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=vue#gh-light-mode-only)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=vue#gh-light-mode-only">
+    <img alt="Top Languages" src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms#gh-dark-mode-only">
+  </picture>
+</div>
 
   <!-- Wave Animation -->
   ![Wave Animation - Dark Mode](resources/wave_animation_dark.svg#gh-dark-mode-only)
