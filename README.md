@@ -24,9 +24,25 @@
     <a href="#gh-light-mode-only">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=20&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak">
     </a>
+<<<<<<< HEAD
     <!--github most used languages-->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact#gh-dark-mode-only" alt="Leetcode Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=vue&layout=compact#gh-light-mode-only" alt="Leetcode Stats"> 
+=======
+    <!-- LeetCode Stats -->
+    <a href="https://leetcode.com/RahulSomani#gh-dark-mode-only">
+        <img src="https://leetcard.jacoblin.cool/RahulSomani?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only" alt="Leetcode Stats">
+    </a>
+    <a href="https://leetcode.com/RahulSomani#gh-light-mode-only">
+        <img src="https://leetcard.jacoblin.cool/RahulSomani?theme=wtf&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-light-mode-only" alt="Leetcode Stats">
+    </a>
+    <a href="https://leetcode.com/RahulSomani#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact#gh-dark-mode-only" alt="Leetcode Stats">
+    </a>
+    <a href="https://leetcode.com/RahulSomani#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_light&layout=compact#gh-light-mode-only" alt="Leetcode Stats">
+    </a>
+>>>>>>> ce3bb68c33dc55ee72a4f357bac6971783c5852a
 </div>
 <br>
 <div align="center">
@@ -47,8 +63,12 @@
     </a>
     <!-- Java File Transfer Repo -->
     <a href="https://github.com/somani-rahul/File_Transfer_Software#gh-dark-mode-only">
+<<<<<<< HEAD
         <img style="width:49%" src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=somani-rahul&repo=File_Transfer_Software
 &theme=github_dark#gh-dark-mode-only" alt="LeetCode Java Repo">
+=======
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=somani-rahul&repo=File_Transfer_Software&theme=github_dark#gh-dark-mode-only" alt="LeetCode Java Repo">
+>>>>>>> ce3bb68c33dc55ee72a4f357bac6971783c5852a
     </a>
     <a href="https://github.com/somani-rahul/File_Transfer_Software#gh-light-mode-only">
         <img style="width:49%" src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=somani-rahul&repo=File_Transfer_Software&theme=vue#gh-light-mode-only" alt="LeetCode Java Repo">
