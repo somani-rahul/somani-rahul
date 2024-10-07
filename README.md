@@ -2,7 +2,6 @@
     <!-- Contribution Heatmap with Snake Animation -->
     <img src="resources/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
     <img src="resources/github-snake.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-light-mode-only" alt="Snake animation">
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Hello!+I'm+Himanshu;App+Developer;Open-Source+Contributor;UI+Designer;Programmer;Problem+Solving)](https://git.io/typing-svg)
     <!-- LeetCode Stats -->
     <a href="https://leetcode.com/RahulSomani#gh-dark-mode-only">
         <img style="width:100%" src="https://leetcard.jacoblin.cool/RahulSomani?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only" alt="Leetcode Stats">
