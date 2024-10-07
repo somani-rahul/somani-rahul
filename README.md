@@ -1,87 +1,75 @@
 <div align="center">
-    <!-- Contribution Heatmap with Snake Animation -->
-    <img src="resources/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
-    <img src="resources/github-snake.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-light-mode-only" alt="Snake animation">
-    <!-- LeetCode Stats -->
-    <a href="https://leetcode.com/RahulSomani#gh-dark-mode-only">
-        <img style="width:100%" src="https://leetcard.jacoblin.cool/RahulSomani?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only" alt="Leetcode Stats">
-    </a>
-    <a  href="https://leetcode.com/RahulSomani#gh-light-mode-only">
-        <img src="https://leetcard.jacoblin.cool/RahulSomani?theme=wtf&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-light-mode-only" alt="Leetcode Stats">
-    </a>
-    <!-- Github Activity Graph -->
-    <a href="#gh-dark-mode-only">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=15F8EB&background=2A2E3425&center=true&vCenter=true&&lines=Hello!+I'm+Rahul+Somani;LeetCode+Solver;Open-Source+Enthusiast;GitHub+Contributor)](https://git.io/typing-svg)
+</div>
+<div align="center">
+  
+  <!-- Heatmap with Snake Animation -->
+  ![Snake animation - Dark Mode](resources/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only)
+  ![Snake animation - Light Mode](resources/github-snake.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-light-mode-only)
+
+  <!-- LeetCode Stats -->
+  [![LeetCode Stats - Dark Mode](https://leetcard.jacoblin.cool/RahulSomani?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only)](https://leetcode.com/RahulSomani#gh-dark-mode-only)
+  [![LeetCode Stats - Light Mode](https://leetcard.jacoblin.cool/RahulSomani?theme=wtf&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-light-mode-only)](https://leetcode.com/RahulSomani#gh-light-mode-only)
+
+
+<div align="center">
+  <!-- GitHub Activity Graph -->
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=somani-rahul&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
-    </a>
-    <a href="#gh-light-mode-only">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=somani-rahul&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
-    </a>
-    <!-- Github Streak Stats -->
-    <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
-    </a>
-    <a href="#gh-light-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=20&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak">
-    </a>
-<<<<<<< HEAD
-    <!--github most used languages-->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact#gh-dark-mode-only" alt="Leetcode Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=vue&layout=compact#gh-light-mode-only" alt="Leetcode Stats"> 
-=======
-    <!-- LeetCode Stats -->
-    <a href="https://leetcode.com/RahulSomani#gh-dark-mode-only">
-        <img src="https://leetcard.jacoblin.cool/RahulSomani?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only" alt="Leetcode Stats">
-    </a>
-    <a href="https://leetcode.com/RahulSomani#gh-light-mode-only">
-        <img src="https://leetcard.jacoblin.cool/RahulSomani?theme=wtf&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-light-mode-only" alt="Leetcode Stats">
-    </a>
-    <a href="https://leetcode.com/RahulSomani#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact#gh-dark-mode-only" alt="Leetcode Stats">
-    </a>
-    <a href="https://leetcode.com/RahulSomani#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_light&layout=compact#gh-light-mode-only" alt="Leetcode Stats">
-    </a>
->>>>>>> ce3bb68c33dc55ee72a4f357bac6971783c5852a
 </div>
-<br>
 <div align="center">
-<a href="https://www.linkedin.com/in/dhanushkamadushan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/dhanushka_m/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/dhanushka.madushan.37" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://open.spotify.com/playlist/37i9dQZF1DWYfNJLV7OBMA" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<!-- GitHub Streak Stats -->
+
+[![GitHub Streak - Dark Mode](https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only)](https://github.com/somani-rahul#gh-dark-mode-only)
+[![GitHub Streak - Light Mode](https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=20&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only)](https://github.com/somani-rahul#gh-light-mode-only)
+
+  <!-- GitHub Most Used Languages -->
+  ![Top Languages - Dark Mode](https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact#gh-dark-mode-only)
+  ![Top Languages - Light Mode](https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=vue&layout=compact#gh-light-mode-only)
 
 </div>
+
 <br>
+
 <div align="center">
-    <!-- Account Assistant Repo -->
-    <a  href="https://github.com/somani-rahul/Account_Assistant#gh-dark-mode-only">
-        <img style="width:49%" src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=somani-rahul&repo=Account_Assistant&theme=github_dark#gh-dark-mode-only" alt="SoundState Repo">
-    </a>
-    <a href="https://github.com/somani-rahul/Account_Assistant#gh-light-mode-only">
-        <img style="width:49%" src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=somani-rahul&repo=Account_Assistant&theme=vue#gh-light-mode-only" alt="SoundState Repo">
-    </a>
-    <!-- Java File Transfer Repo -->
-    <a href="https://github.com/somani-rahul/File_Transfer_Software#gh-dark-mode-only">
-<<<<<<< HEAD
-        <img style="width:49%" src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=somani-rahul&repo=File_Transfer_Software
-&theme=github_dark#gh-dark-mode-only" alt="LeetCode Java Repo">
-=======
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=somani-rahul&repo=File_Transfer_Software&theme=github_dark#gh-dark-mode-only" alt="LeetCode Java Repo">
->>>>>>> ce3bb68c33dc55ee72a4f357bac6971783c5852a
-    </a>
-    <a href="https://github.com/somani-rahul/File_Transfer_Software#gh-light-mode-only">
-        <img style="width:49%" src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=somani-rahul&repo=File_Transfer_Software&theme=vue#gh-light-mode-only" alt="LeetCode Java Repo">
-    </a>
+  
+  <!-- Social Links -->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushkamadushan/)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dhanushka_m/)
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/dhanushka.madushan.37)
+  [![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DWYfNJLV7OBMA)
+
 </div>
 
-<div>
-    &emsp;&emsp;&emsp;
-        <img style="width:100%" src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms#gh-dark-mode-only" alt="Daily Quotes">
-        <img style="width:100%" src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=vue#gh-light-mode-only" alt="Daily Quotes">
+<br>
+
+<div align="center">
+
+  <!-- Account Assistant Repo -->
+  [![Account Assistant - Dark Mode](https://github-readme-stats-gray-three.vercel.app/api/pin/?username=somani-rahul&repo=Account_Assistant&theme=github_dark#gh-dark-mode-only)](https://github.com/somani-rahul/Account_Assistant#gh-dark-mode-only)
+  [![Account Assistant - Light Mode](https://github-readme-stats-gray-three.vercel.app/api/pin/?username=somani-rahul&repo=Account_Assistant&theme=vue#gh-light-mode-only)](https://github.com/somani-rahul/Account_Assistant#gh-light-mode-only)
+
+  <!-- File Transfer Software Repo -->
+  [![File Transfer Software - Dark Mode](https://github-readme-stats-gray-three.vercel.app/api/pin/?username=somani-rahul&repo=File_Transfer_Software&theme=github_dark#gh-dark-mode-only)](https://github.com/somani-rahul/File_Transfer_Software#gh-dark-mode-only)
+  [![File Transfer Software - Light Mode](https://github-readme-stats-gray-three.vercel.app/api/pin/?username=somani-rahul&repo=File_Transfer_Software&theme=vue#gh-light-mode-only)](https://github.com/somani-rahul/File_Transfer_Software#gh-light-mode-only)
+
 </div>
 
-<img alt="wave animation" src="resources/wave_animation_dark.svg#gh-dark-mode-only">
-<img alt="wave animation" src="resources/wave_animation_light.svg#gh-light-mode-only">
+<br>
 
-<img alt="" src="resources/themed_line_dark.svg#gh-dark-mode-only">
-<img alt="" src="resources/themed_line_light.svg#gh-light-mode-only">
+<div align="center">
+  
+  <!-- Daily Quotes -->
+  ![Daily Quotes - Dark Mode](https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms#gh-dark-mode-only)
+  ![Daily Quotes - Light Mode](https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=vue#gh-light-mode-only)
+
+  <!-- Wave Animation -->
+  ![Wave Animation - Dark Mode](resources/wave_animation_dark.svg#gh-dark-mode-only)
+  ![Wave Animation - Light Mode](resources/wave_animation_light.svg#gh-light-mode-only)
+
+  <!-- Themed Line -->
+  ![Themed Line - Dark Mode](resources/themed_line_dark.svg#gh-dark-mode-only)
+  ![Themed Line - Light Mode](resources/themed_line_light.svg#gh-light-mode-only)
+
+</div>
