@@ -49,11 +49,11 @@
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=somani-rahul&repo=Account_Assistant&theme=vue#gh-light-mode-only" alt="SoundState Repo">
     </a>
     <!-- Java File Transfer Repo -->
-    <a href="https://github.com/cheehwatang/leetcode-java#gh-dark-mode-only">
+    <a href="https://github.com/somani-rahul/File_Transfer_Software#gh-dark-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=somani-rahul&repo=File_Transfer_Software
 &theme=github_dark#gh-dark-mode-only" alt="LeetCode Java Repo">
     </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#gh-light-mode-only">
+    <a href="https://github.com/somani-rahul/File_Transfer_Software#gh-light-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=somani-rahul&repo=File_Transfer_Software&theme=vue#gh-light-mode-only" alt="LeetCode Java Repo">
     </a>
 </div>
