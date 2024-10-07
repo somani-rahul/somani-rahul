@@ -21,13 +21,13 @@
     <a href="https://leetcode.com/RahulSomani#gh-dark-mode-only">
         <img src="https://leetcard.jacoblin.cool/RahulSomani?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only" alt="Leetcode Stats">
     </a>
-    <a href="https://leetcode.com/RahulSomani#gh-dark-mode-only">
+    <a href="https://leetcode.com/RahulSomani#gh-light-mode-only">
         <img src="https://leetcard.jacoblin.cool/RahulSomani?theme=wtf&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-light-mode-only" alt="Leetcode Stats">
     </a>
     <a href="https://leetcode.com/RahulSomani#gh-dark-mode-only">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact#gh-dark-mode-only" alt="Leetcode Stats">
     </a>
-    <a href="https://leetcode.com/RahulSomani#gh-dark-mode-only">
+    <a href="https://leetcode.com/RahulSomani#gh-light-mode-only">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_light&layout=compact#gh-light-mode-only" alt="Leetcode Stats">
     </a>
 </div>
