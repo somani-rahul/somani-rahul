@@ -1,6 +1,8 @@
 <div align="center">
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2000&pause=200&color=blue&background=2A2E3425&center=true&vCenter=true&&lines=Hello!+I'm+Rahul+Somani;..My+Skills..;App+Developer;Java+Developer;UI+Designer;Software+Developer;Problem+Solving)](https://git.io/typing-svg)
+    <a href="#gh-light-mode-only">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2000&pause=200&color=41b883&background=2A2E3425&center=true&vCenter=true&&lines=Hello!+I'm+Rahul+Somani;..My+Skills..;App+Developer;Java+Developer;UI+Designer;Software+Developer;Problem+Solving)](https://git.io/typing-svg)
+    </a>
 </div>
 
 
@@ -27,7 +29,7 @@
 
 - 💻 Working on <a href="https://www.github.com/somani-rahul/Daily-Routine-Tracker-App" alt="link to the app"><strong>Daily Routine Tracker App</strong></a>
 
-- 🤔 Pondering on <a href="https://github.com/cheehwatang/github-readme-daily-quotes" alt="link to Github Readme Daily Quotes"><strong>Daily Quotes</strong></a>
+- 🤔 Pondering on <strong>Right Graph </strong> for my app.
 
 </div>
 <div align="center">
@@ -39,24 +41,7 @@
         <img style="width:70%" src="https://leetcard.jacoblin.cool/RahulSomani?theme=wtf&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-light-mode-only" alt="Leetcode Stats">
     </a>
 </div>
-<div align="center">
-    <!-- Github Activity Graph -->
-    <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=somani-rahul&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
-    </a>
-    <a href="#gh-light-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=somani-rahul&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
-    </a>
-</div>
-<div align="center">
-    <!-- Github Streak Stats -->
-    <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
-    </a>
-    <a href="#gh-light-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=20&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak">
-    </a>
-</div>
+
 <div align="center">
     <!--github most used languages-->
     <a href="#gh-dark-mode-only">
@@ -64,6 +49,16 @@
     </a>
     <a href="#gh-light-mode-only">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=vue&layout=compact#gh-light-mode-only" alt="Leetcode Stats"> 
+    </a>
+</div>
+
+<div align="center">
+    <!-- Github Streak Stats -->
+    <a href="#gh-dark-mode-only">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=20&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak">
     </a>
 </div>
 
@@ -98,6 +93,15 @@
     </a>
 </div>
 
+<div align="center">
+    <!-- Github Activity Graph -->
+    <a href="#gh-dark-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=somani-rahul&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=somani-rahul&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
+    </a>
+</div>
 <br>
 
 <div align="center">
