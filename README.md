@@ -26,6 +26,7 @@
 <p></p>
 - 💻 Working on <a href="https://www.github.com/somani-rahul/Daily-Routine-Tracker-App" alt="link to the app"><strong>Daily Routine Tracker App</strong></a>
 - 🤔 Pondering on <strong>Right Graph </strong> for my app.
+<p></p>
 </div>
 <div align="center">
     <!-- LeetCode Stats -->
@@ -119,4 +120,20 @@
   ![Themed Line - Dark Mode](resources/themed_line_dark.svg#gh-dark-mode-only)
   ![Themed Line - Light Mode](resources/themed_line_light.svg#gh-light-mode-only)
 
+</div>
+
+<div align="center">
+  <!-- Profile Views -->
+    <a href="#gh-dark-mode-only">
+        <img style="width:30%;" src="https://profile-counter.glitch.me/{somani-rahul}/count.svg" alt="somani-rahul :: Visitor's Count" alt="Profile Count">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img style="width:30%;" src="https://profile-counter.glitch.me/{somani-rahul}/count.svg" alt="somani-rahul :: Visitor's Count" alt="Profile Count">
+    </a>
+</div>
+<div align="center">
+  <!-- Profile Views -->
+    <a href="">
+        <img style="width:30%;" src="https://moon-svg.minung.dev/moon.svg?size=135&theme=ray&rotate=0" alt="moon.svg">
+    </a>
 </div>
