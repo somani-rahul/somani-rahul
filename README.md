@@ -28,6 +28,8 @@
 - 🤔 Pondering on <strong>Right Graph </strong> for my app.
 <p></p>
 </div>
+
+
 <div align="center">
     <!-- LeetCode Stats -->
     <a href="https://leetcode.com/RahulSomani#gh-dark-mode-only">
@@ -132,8 +134,9 @@
     </a>
 </div>
 <div align="center">
-  <!-- Profile Views -->
+  <!-- moon image -->
     <a href="">
         <img style="width:30%;" src="https://moon-svg.minung.dev/moon.svg?size=135&theme=ray&rotate=0" alt="moon.svg">
     </a>
 </div>
+
