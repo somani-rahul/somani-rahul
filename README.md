@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2000&pause=200&color=blue&background=2A2E3425&center=true&vCenter=true&&lines=Hello!+I'm+Rahul+Somani;..My+Skills..;App+Developer;Java+Developer;UI+Designer;Software+Developer;Problem+Solving)](https://git.io/typing-svg)
 <div align="center">
     <!-- Contribution Heatmap with Snake Animation -->
     <img src="resources/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
@@ -27,7 +28,7 @@
     <a href="#gh-dark-mode-only">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact#gh-dark-mode-only" alt="Leetcode Stats">
     </a>
-    <a href="#gh-dark-mode-only">
+    <a href="#gh-light-mode-only">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=vue&layout=compact#gh-light-mode-only" alt="Leetcode Stats"> 
     </a>
 </div>
