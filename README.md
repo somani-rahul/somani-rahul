@@ -1,7 +1,6 @@
 <div align="center">
     <a href="#gh-light-mode-only">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2000&pause=200&color=41b883&background=2A2E3425&center=true&vCenter=true&&lines=Hello!+I'm+Rahul+Somani;..My+Skills..;App+Developer;Java+Developer;UI+Designer;Software+Developer;Problem+Solving)](https://git.io/typing-svg)
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2000&pause=200&color=41b883&background=2A2E3425&center=true&vCenter=true&&lines=Hello!+I'm+Rahul+Somani;..My+Skills..;App+Developer;Java+Developer;UI+Designer;Software+Developer;Problem+Solving" alt="My Introduction">
     </a>
 </div>
 
