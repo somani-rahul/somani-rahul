@@ -1,4 +1,5 @@
 <div align="center">
+    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2000&pause=200&color=blue&background=2A2E3425&center=true&vCenter=true&&lines=Hello!+I'm+Rahul+Somani;..My+Skills..;App+Developer;Java+Developer;UI+Designer;Software+Developer;Problem+Solving)](https://git.io/typing-svg)
 </div>
 <div align="center">
@@ -80,7 +81,8 @@
 
 <div align="center">
   <!-- Wave Animation -->
-  ![Wave Animation - Dark Mode](resources/wave_animation_dark.svg#gh-dark-mode-only)
+    
+![Wave Animation - Dark Mode](resources/wave_animation_dark.svg#gh-dark-mode-only)
   ![Wave Animation - Light Mode](resources/wave_animation_light.svg#gh-light-mode-only)
 
   <!-- Themed Line -->
