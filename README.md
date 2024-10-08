@@ -1,4 +1,6 @@
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2000&pause=200&color=blue&background=2A2E3425&center=true&vCenter=true&&lines=Hello!+I'm+Rahul+Somani;..My+Skills..;App+Developer;Java+Developer;UI+Designer;Software+Developer;Problem+Solving)](https://git.io/typing-svg)
+</div>
 <div align="center">
     <!-- Contribution Heatmap with Snake Animation -->
     <img src="resources/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
@@ -67,16 +69,16 @@
 <br>
 
 <div align="center">
-
-  <div align="center">
   <!-- Daily Quotes -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms#gh-dark-mode-only">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=vue#gh-light-mode-only">
-    <img alt="Top Languages" src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms#gh-dark-mode-only">
-  </picture>
+    <a href="#gh-dark-mode-only">
+        <img style="width:100%" src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms#gh-dark-mode-only" alt="daily quotes">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img style="width:100%" src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=vue#gh-light-mode-only" alt="daily quotes">
+    </a>
 </div>
 
+<div align="center">
   <!-- Wave Animation -->
   ![Wave Animation - Dark Mode](resources/wave_animation_dark.svg#gh-dark-mode-only)
   ![Wave Animation - Light Mode](resources/wave_animation_light.svg#gh-light-mode-only)
