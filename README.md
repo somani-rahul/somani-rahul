@@ -1,10 +1,6 @@
 <div align="center">
-    <a href="#gh-dark-mode-only">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2000&pause=200&color=blue&background=2A2E3425&center=true&vCenter=true&&lines=Hello!+I'm+Rahul+Somani;..My+Skills..;App+Developer;Java+Developer;UI+Designer;Software+Developer;Problem+Solving" alt="My Introduction">
-    </a>
-    <a href="#gh-light-mode-only">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2000&pause=200&color=41b883&background=2A2E3425&center=true&vCenter=true&&lines=Hello!+I'm+Rahul+Somani;..My+Skills..;App+Developer;Java+Developer;UI+Designer;Software+Developer;Problem+Solving" alt="My Introduction">
-    </a>
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2000&pause=200&color=blue&background=2A2E3425&center=true&vCenter=true&&lines=Hello!+I'm+Rahul+Somani;..My+Skills..;App+Developer;Java+Developer;UI+Designer;Software+Developer;Problem+Solving)](https://git.io/typing-svg)
 </div>
 
 
@@ -13,9 +9,12 @@
     <img src="resources/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
     <img src="resources/github-snake.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-light-mode-only" alt="Snake animation">
 </div>
-
-<div>
 <h1>👨🏻‍💻 What's Happening?</h1>
+<div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
+    <img align="right" width="400" src="https://leetcard.jacoblin.cool/RahulSomani?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only" alt="Leetcode Stats">
+    
+<div align="left" >
+
 <br>
 - 👨‍🎓 I've just started working on a new Android Project:**Daily Routine Tracker**.
 <p></p>
@@ -26,30 +25,25 @@
 <p></p>
 - 💻 Working on <a href="https://www.github.com/somani-rahul/Daily-Routine-Tracker-App" alt="link to the app"><strong>Daily Routine Tracker App</strong></a>
 - 🤔 Pondering on <strong>Right Graph </strong> for my app.
-<p></p>
+</div>
 </div>
 
+ 
 
-<div align="center">
-    <!-- LeetCode Stats -->
-    <a href="https://leetcode.com/RahulSomani#gh-dark-mode-only">
-        <img style="width:70%" src="https://leetcard.jacoblin.cool/RahulSomani?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only" alt="Leetcode Stats">
-    </a>
-    <a  href="https://leetcode.com/RahulSomani#gh-light-mode-only">
-        <img style="width:70%" src="https://leetcard.jacoblin.cool/RahulSomani?theme=wtf&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-light-mode-only" alt="Leetcode Stats">
-    </a>
-</div>
 
+    
+ 
+
+    
 <div align="center">
-    <!--github most used languages-->
+    <!-- Github Activity Graph -->
     <a href="#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact#gh-dark-mode-only" alt="Leetcode Stats">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=somani-rahul&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
     </a>
     <a href="#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=vue&layout=compact#gh-light-mode-only" alt="Leetcode Stats"> 
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=somani-rahul&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
     </a>
 </div>
-
 <div align="center">
     <!-- Github Streak Stats -->
     <a href="#gh-dark-mode-only">
@@ -57,6 +51,15 @@
     </a>
     <a href="#gh-light-mode-only">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=20&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak">
+    </a>
+</div>
+<div align="center">
+    <!--github most used languages-->
+    <a href="#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact#gh-dark-mode-only" alt="Leetcode Stats">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=vue&layout=compact#gh-light-mode-only" alt="Leetcode Stats"> 
     </a>
 </div>
 
@@ -91,15 +94,6 @@
     </a>
 </div>
 
-<div align="center">
-    <!-- Github Activity Graph -->
-    <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=somani-rahul&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
-    </a>
-    <a href="#gh-light-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=somani-rahul&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
-    </a>
-</div>
 <br>
 
 <div align="center">
@@ -123,20 +117,3 @@
   ![Themed Line - Light Mode](resources/themed_line_light.svg#gh-light-mode-only)
 
 </div>
-
-<div align="center">
-  <!-- Profile Views -->
-    <a href="#gh-dark-mode-only">
-        <img style="width:30%;" src="https://profile-counter.glitch.me/{somani-rahul}/count.svg" alt="somani-rahul :: Visitor's Count" alt="Profile Count">
-    </a>
-    <a href="#gh-light-mode-only">
-        <img style="width:30%;" src="https://profile-counter.glitch.me/{somani-rahul}/count.svg" alt="somani-rahul :: Visitor's Count" alt="Profile Count">
-    </a>
-</div>
-<div align="center">
-  <!-- moon image -->
-    <a href="">
-        <img style="width:30%;" src="https://moon-svg.minung.dev/moon.svg?size=135&theme=ray&rotate=0" alt="moon.svg">
-    </a>
-</div>
-
