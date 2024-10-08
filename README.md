@@ -1,4 +1,7 @@
 <div align="center">
+    <a href="#gh-dark-mode-only">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2000&pause=200&color=blue&background=2A2E3425&center=true&vCenter=true&&lines=Hello!+I'm+Rahul+Somani;..My+Skills..;App+Developer;Java+Developer;UI+Designer;Software+Developer;Problem+Solving" alt="My Introduction">
+    </a>
     <a href="#gh-light-mode-only">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2000&pause=200&color=41b883&background=2A2E3425&center=true&vCenter=true&&lines=Hello!+I'm+Rahul+Somani;..My+Skills..;App+Developer;Java+Developer;UI+Designer;Software+Developer;Problem+Solving" alt="My Introduction">
     </a>
@@ -12,24 +15,17 @@
 </div>
 
 <div>
-    
-## 👨🏻‍💻 What's Happening?
-
+<h1>👨🏻‍💻 What's Happening?</h1>
+<br>
 - 👨‍🎓 I've just started working on a new Android Project:**Daily Routine Tracker**.
 <p></p>
-
 - 🐣 Solving Leetcode Problems as a daily practice.
-
 - 🌱 Learning **Firebase API** & **Flutter**
 <p></p>
-
 - 🔍 Solving <a href="https://leetcode.com/somani-rahul/" alt="link to leetcode"><strong>LeetCode</strong></a> Challenges
 <p></p>
-
 - 💻 Working on <a href="https://www.github.com/somani-rahul/Daily-Routine-Tracker-App" alt="link to the app"><strong>Daily Routine Tracker App</strong></a>
-
 - 🤔 Pondering on <strong>Right Graph </strong> for my app.
-
 </div>
 <div align="center">
     <!-- LeetCode Stats -->
