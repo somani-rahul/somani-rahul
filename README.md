@@ -16,30 +16,65 @@
 
 <div>
 <h1>👨🏻‍💻 What's Happening?</h1>
+    <div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
+<a href="https://leetcode.com/RahulSomani#gh-dark-mode-only">
+        <img align="right" width="400" src="https://leetcard.jacoblin.cool/RahulSomani?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only" alt="Leetcode Stats">
+    </a>
+    <a  href="https://leetcode.com/RahulSomani#gh-light-mode-only">
+        <img align="right" width="400" src="https://leetcard.jacoblin.cool/RahulSomani?theme=wtf&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-light-mode-only" alt="Leetcode Stats">
+    </a>
+<div align="left" >
 <br>
-- 👨‍🎓 I've just started working on a new Android Project:**Daily Routine Tracker**.
+- 👨‍🎓 I've just started working on a new Android Project:<strong>Daily Routine Tracker</strong>.
 <p></p>
 - 🐣 Solving Leetcode Problems as a daily practice.
-- 🌱 Learning **Firebase API** & **Flutter**
+- 🌱 Learning <strong>Firebase API</strong> & <strong>Flutter</strong>
 <p></p>
 - 🔍 Solving <a href="https://leetcode.com/somani-rahul/" alt="link to leetcode"><strong>LeetCode</strong></a> Challenges
 <p></p>
 - 💻 Working on <a href="https://www.github.com/somani-rahul/Daily-Routine-Tracker-App" alt="link to the app"><strong>Daily Routine Tracker App</strong></a>
+<p></p>
 - 🤔 Pondering on <strong>Right Graph </strong> for my app.
 <p></p>
 </div>
-
-
-<div align="center">
-    <!-- LeetCode Stats -->
-    <a href="https://leetcode.com/RahulSomani#gh-dark-mode-only">
-        <img style="width:70%" src="https://leetcard.jacoblin.cool/RahulSomani?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only" alt="Leetcode Stats">
+<br>
+<br>
+        
+<h1 align="right">🧰 My Toolbox </h1> 
+<div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
+    <img align="left" width="200" src="https://moon-svg.minung.dev/moon.svg?size=135&theme=ray&rotate=0" alt="moon.svg">
+<div align="right">  
+    <a href="" >
+        <img src="https://img.shields.io/badge/C++-050505?style=for-the-badge&logo=gcc"/>
     </a>
-    <a  href="https://leetcode.com/RahulSomani#gh-light-mode-only">
-        <img style="width:70%" src="https://leetcard.jacoblin.cool/RahulSomani?theme=wtf&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-light-mode-only" alt="Leetcode Stats">
+    <a href="">
+         <img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python"/>
+    </a>
+    <a href="">
+         <img src="https://img.shields.io/badge/Flutter-050505?style=for-the-badge&logo=flutter"/>
+    </a>
+    <a href="">
+         <img src="https://img.shields.io/badge/Sqlite-050505?style=for-the-badge&logo=sqlite"/>
+    </a>
+    <a href="">
+         <img src="https://img.shields.io/badge/Java%20Development-050505?style=for-the-badge&logo=java"/>
+    </a>
+    <a href="">
+         <img src="https://img.shields.io/badge/Github-050505?style=for-the-badge&logo=github"/>
+    </a>
+    <a href="">
+         <img src="https://img.shields.io/badge/VS code-050505?style=for-the-badge&logo=vscode"/>
+    </a>
+    <a href="">
+         <img src="https://img.shields.io/badge/Android Development-050505?style=for-the-badge&logo=android"/>
     </a>
 </div>
+    
+<div align="center">
+</div>
 
+
+    
 <div align="center">
     <!--github most used languages-->
     <a href="#gh-dark-mode-only">
@@ -62,15 +97,7 @@
 
 <br>
 
-<div align="center">
-  
-  <!-- Social Links -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushkamadushan/)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dhanushka_m/)
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/dhanushka.madushan.37)
-  [![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DWYfNJLV7OBMA)
 
-</div>
 
 <br>
 
@@ -131,12 +158,6 @@
     </a>
     <a href="#gh-light-mode-only">
         <img style="width:30%;" src="https://profile-counter.glitch.me/{somani-rahul}/count.svg" alt="somani-rahul :: Visitor's Count" alt="Profile Count">
-    </a>
-</div>
-<div align="center">
-  <!-- moon image -->
-    <a href="">
-        <img style="width:30%;" src="https://moon-svg.minung.dev/moon.svg?size=135&theme=ray&rotate=0" alt="moon.svg">
     </a>
 </div>
 
