@@ -18,16 +18,17 @@
 <h1>👨🏻‍💻 What's Happening?</h1>
     <div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
 <a href="https://leetcode.com/RahulSomani#gh-dark-mode-only">
-        <img align="right" width="400" src="https://leetcard.jacoblin.cool/RahulSomani?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only" alt="Leetcode Stats">
+        <img align="right" width="40%" src="https://leetcard.jacoblin.cool/RahulSomani?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only" alt="Leetcode Stats">
     </a>
     <a  href="https://leetcode.com/RahulSomani#gh-light-mode-only">
-        <img align="right" width="400" src="https://leetcard.jacoblin.cool/RahulSomani?theme=wtf&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-light-mode-only" alt="Leetcode Stats">
+        <img align="right" width="40%" src="https://leetcard.jacoblin.cool/RahulSomani?theme=wtf&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-light-mode-only" alt="Leetcode Stats">
     </a>
 <div align="left" >
 <br>
 - 👨‍🎓 I've just started working on a new Android Project:<strong>Daily Routine Tracker</strong>.
 <p></p>
 - 🐣 Solving Leetcode Problems as a daily practice.
+<p></p>
 - 🌱 Learning <strong>Firebase API</strong> & <strong>Flutter</strong>
 <p></p>
 - 🔍 Solving <a href="https://leetcode.com/somani-rahul/" alt="link to leetcode"><strong>LeetCode</strong></a> Challenges
@@ -90,10 +91,10 @@
 <span align="left">
     <!--github most used languages-->
    <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact#gh-dark-mode-only" alt="Leetcode Stats" style="width: 49%; height: 210px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact#gh-dark-mode-only" alt="Leetcode Stats" style="width: 49%; height: 200px;">
     </a>
     <a href="#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=vue&layout=compact#gh-light-mode-only" alt="Leetcode Stats" style="width: 400px; height: 200px;"> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=vue&layout=compact#gh-light-mode-only" alt="Leetcode Stats" style="width: 49%; height: 200px;"> 
     </a>
 </span>
 
@@ -103,13 +104,13 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=8&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak" style="width: 49%; height: 200px;">
     </a>
     <a href="#gh-light-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=8&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak" style="width: 400px; height: 200px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=8&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak" style="width: 49%; height: 200px;">
     </a>
 </span>
 </div>
 <br>
 <br>
-
+<h1 align="left">🔖 Featured Repository</h1> 
 <div align="center">
     <!-- Account Assistant Repo -->
     <a  href="https://github.com/somani-rahul/Account_Assistant#gh-dark-mode-only">
@@ -126,7 +127,8 @@
         <img style="width:49%" src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=somani-rahul&repo=File_Transfer_Software&theme=vue#gh-light-mode-only" alt="LeetCode Java Repo">
     </a>
 </div>
-
+<br>
+<br>
 <div align="center">
     <!-- Github Activity Graph -->
     <a href="#gh-dark-mode-only">
@@ -137,8 +139,11 @@
     </a>
 </div>
 <br>
-
-<div align="center">
+<h1 align="left">🌟 Credit & Thank You!</h1> 
+<div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
+<div style="width:49%" align="left">Appreciate the wonderful contributions from the community.If you like their work, give a star to their repo and make your Github README shines
+</div>
+<div align="right" style="width:49%">
   <!-- Daily Quotes -->
     <a href="#gh-dark-mode-only">
         <img style="width:50%;" src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms#gh-dark-mode-only" alt="daily quotes">
@@ -147,7 +152,7 @@
         <img style="width:50%" src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=vue#gh-light-mode-only" alt="daily quotes">
     </a>
 </div>
-
+</div>
 <div align="center">
   <!-- Wave Animation -->
     
