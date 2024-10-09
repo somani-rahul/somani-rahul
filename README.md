@@ -86,31 +86,28 @@
 <br>
 
 <h1 align="left">🧰 Github Stats </h1> 
-    
 <div align="center">
+<span align="left">
     <!--github most used languages-->
-    <a href="#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact#gh-dark-mode-only" alt="Leetcode Stats" style="width: 400px; height: 200px;>
+   <a href="#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact#gh-dark-mode-only" alt="Leetcode Stats" style="width: 49%; height: 210px;">
     </a>
     <a href="#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=vue&layout=compact#gh-light-mode-only" alt="Leetcode Stats" style="width: 400px; height: 200px;> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=vue&layout=compact#gh-light-mode-only" alt="Leetcode Stats" style="width: 400px; height: 200px;"> 
     </a>
-</div>
+</span>
 
-<div align="center">
+<span align="right">
     <!-- Github Streak Stats -->
     <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak" style="width: 400px; height: 200px;>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=8&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak" style="width: 49%; height: 200px;">
     </a>
     <a href="#gh-light-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=20&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak" style="width: 400px; height: 200px;>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=8&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak" style="width: 400px; height: 200px;">
     </a>
+</span>
 </div>
-
 <br>
-
-
-
 <br>
 
 <div align="center">
@@ -165,10 +162,8 @@
 
 <div align="center">
   <!-- Profile Views -->
-    <a href="#gh-dark-mode-only">
-        <img style="width:30%;" src="https://profile-counter.glitch.me/{somani-rahul}/count.svg" alt="somani-rahul :: Visitor's Count" alt="Profile Count">
-    </a>
-    <a href="#gh-light-mode-only">
+    <h4 align="center">Profile Views</h4>
+    <a href="">
         <img style="width:30%;" src="https://profile-counter.glitch.me/{somani-rahul}/count.svg" alt="somani-rahul :: Visitor's Count" alt="Profile Count">
     </a>
 </div>
