@@ -41,10 +41,12 @@
 <br>
         
 <h1 align="right">🧰 My Toolbox </h1> 
+
 <div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
     <img align="left" width="180" src="https://moon-svg.minung.dev/moon.svg?size=135&theme=ray&rotate=0" alt="moon.svg">
 <div align=right style="display: flex; flex-direction: column; gap: 10px;">
     <div style="display: flex; gap: 10px;">
+        <br>
     <a href="" >
         <img src="https://img.shields.io/badge/C++-050505?style=for-the-badge&logo=gcc"/>
     </a>
@@ -55,6 +57,7 @@
          <img src="https://img.shields.io/badge/Flutter-050505?style=for-the-badge&logo=flutter"/>
     </a>
     </div>
+<p></p>
     <div style="display: flex; gap: 10px;">
     <a href="">
          <img src="https://img.shields.io/badge/Sqlite-050505?style=for-the-badge&logo=sqlite"/>
@@ -66,6 +69,7 @@
          <img src="https://img.shields.io/badge/Github-050505?style=for-the-badge&logo=github"/>
     </a>
     </div>
+<p></p>
     <div style="display: flex; gap: 10px;">
     <a href="">
          <img src="https://img.shields.io/badge/VS code-050505?style=for-the-badge&logo=vscode"/>
@@ -75,12 +79,13 @@
     </a>
     </div>
 </div>
-    
+<br>
+<br>
 <div align="center">
 </div>
 <br>
 
-<h1 align="right">🧰 My Toolbox </h1> 
+<h1 align="left">🧰 Github Stats </h1> 
     
 <div align="center">
     <!--github most used languages-->
