@@ -42,8 +42,9 @@
         
 <h1 align="right">🧰 My Toolbox </h1> 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
-    <img align="left" width="200" src="https://moon-svg.minung.dev/moon.svg?size=135&theme=ray&rotate=0" alt="moon.svg">
-<div align="right">  
+    <img align="left" width="180" src="https://moon-svg.minung.dev/moon.svg?size=135&theme=ray&rotate=0" alt="moon.svg">
+<div align=right style="display: flex; flex-direction: column; gap: 10px;">
+    <div style="display: flex; gap: 10px;">
     <a href="" >
         <img src="https://img.shields.io/badge/C++-050505?style=for-the-badge&logo=gcc"/>
     </a>
@@ -53,6 +54,8 @@
     <a href="">
          <img src="https://img.shields.io/badge/Flutter-050505?style=for-the-badge&logo=flutter"/>
     </a>
+    </div>
+    <div style="display: flex; gap: 10px;">
     <a href="">
          <img src="https://img.shields.io/badge/Sqlite-050505?style=for-the-badge&logo=sqlite"/>
     </a>
@@ -62,36 +65,40 @@
     <a href="">
          <img src="https://img.shields.io/badge/Github-050505?style=for-the-badge&logo=github"/>
     </a>
+    </div>
+    <div style="display: flex; gap: 10px;">
     <a href="">
          <img src="https://img.shields.io/badge/VS code-050505?style=for-the-badge&logo=vscode"/>
     </a>
     <a href="">
          <img src="https://img.shields.io/badge/Android Development-050505?style=for-the-badge&logo=android"/>
     </a>
+    </div>
 </div>
     
 <div align="center">
 </div>
+<br>
 
-
+<h1 align="right">🧰 My Toolbox </h1> 
     
 <div align="center">
     <!--github most used languages-->
     <a href="#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact#gh-dark-mode-only" alt="Leetcode Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact#gh-dark-mode-only" alt="Leetcode Stats" style="width: 400px; height: 200px;>
     </a>
     <a href="#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=vue&layout=compact#gh-light-mode-only" alt="Leetcode Stats"> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=vue&layout=compact#gh-light-mode-only" alt="Leetcode Stats" style="width: 400px; height: 200px;> 
     </a>
 </div>
 
 <div align="center">
     <!-- Github Streak Stats -->
     <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak" style="width: 400px; height: 200px;>
     </a>
     <a href="#gh-light-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=20&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=20&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak" style="width: 400px; height: 200px;>
     </a>
 </div>
 
