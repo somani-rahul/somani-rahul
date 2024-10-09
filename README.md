@@ -16,6 +16,7 @@
 
 <div>
 <h1>👨🏻‍💻 What's Happening?</h1>
+    
     <div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
 <a href="https://leetcode.com/RahulSomani#gh-dark-mode-only">
         <img align="right" width="400" src="https://leetcard.jacoblin.cool/RahulSomani?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only" alt="Leetcode Stats">
@@ -43,7 +44,8 @@
 <h1 align="right">🧰 My Toolbox </h1> 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
     <img align="left" width="200" src="https://moon-svg.minung.dev/moon.svg?size=135&theme=ray&rotate=0" alt="moon.svg">
-<div align="right">  
+<div align="right" style="display: flex; flex-direction: column; gap: 10px;">  
+    <div style="display: flex; gap: 10px;">
     <a href="" >
         <img src="https://img.shields.io/badge/C++-050505?style=for-the-badge&logo=gcc"/>
     </a>
@@ -53,6 +55,8 @@
     <a href="">
          <img src="https://img.shields.io/badge/Flutter-050505?style=for-the-badge&logo=flutter"/>
     </a>
+    </div>
+    <div style="display: flex; gap: 10px;">
     <a href="">
          <img src="https://img.shields.io/badge/Sqlite-050505?style=for-the-badge&logo=sqlite"/>
     </a>
@@ -62,12 +66,15 @@
     <a href="">
          <img src="https://img.shields.io/badge/Github-050505?style=for-the-badge&logo=github"/>
     </a>
+    </div>
+    <div style="display: flex; gap: 10px;">
     <a href="">
          <img src="https://img.shields.io/badge/VS code-050505?style=for-the-badge&logo=vscode"/>
     </a>
     <a href="">
          <img src="https://img.shields.io/badge/Android Development-050505?style=for-the-badge&logo=android"/>
     </a>
+    </div>
 </div>
     
 <div align="center">
