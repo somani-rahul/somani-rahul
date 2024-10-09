@@ -141,7 +141,11 @@
 <br>
 <h1 align="left">🌟 Credit & Thank You!</h1> 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
-<div style="width:49%" align="left">Appreciate the wonderful contributions from the community.If you like their work, give a star to their repo and make your Github README shines
+<div style="width:49%" align="left">
+    <h3>Thank you for giving your time.</h3>
+    <p></p>
+    <h3>Feel free to advice any changes.</h3>
+    <p></p>
 </div>
 <div align="right" style="width:49%">
   <!-- Daily Quotes -->
