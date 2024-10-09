@@ -110,7 +110,7 @@
 </div>
 <br>
 <br>
-<h1 align="left">🔖 Featured Repository</h1> 
+<h1 align="left">🔖 Featured Repositories</h1> 
 <div align="center">
     <!-- Account Assistant Repo -->
     <a  href="https://github.com/somani-rahul/Account_Assistant#gh-dark-mode-only">
@@ -139,7 +139,7 @@
     </a>
 </div>
 <br>
-<h1 align="left">🌟 Credit & Thank You!</h1> 
+<h1 align="left">🌟 Thank You!</h1> 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
   <!-- Daily Quotes -->
     <a href="#gh-dark-mode-only">
@@ -149,9 +149,10 @@
         <img style="width:50%" align="right" src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=vue#gh-light-mode-only" alt="daily quotes">
     </a>
     <div style="width:49%" align="left">
-    <h3>💐Thank you for giving your time.</h3>
+    <br>
+    <h3>💐 Thank you for giving your time.</h3>
     <p></p>
-    <h3>⛑Feel free to advice any changes.</h3>
+    <h3>⛑ Feel free to advice any changes.</h3>
     <p></p>
 </div>
 </div>
