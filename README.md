@@ -90,7 +90,7 @@
 <span align="left">
     <!--github most used languages-->
    <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact#gh-dark-mode-only" alt="Leetcode Stats" style="width: 49%; height: 210px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact#gh-dark-mode-only" alt="Leetcode Stats" style="width: 49%; height: 200px;">
     </a>
     <a href="#gh-light-mode-only">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=vue&layout=compact#gh-light-mode-only" alt="Leetcode Stats" style="width: 400px; height: 200px;"> 
