@@ -7,7 +7,6 @@
     </a>
 </div>
 
-
 <div align="center">
     <!-- Contribution Heatmap with Snake Animation -->
     <img src="resources/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
@@ -45,7 +44,8 @@
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
     <img align="left" width="180" src="https://moon-svg.minung.dev/moon.svg?size=135&theme=ray&rotate=0" alt="moon.svg">
-<div align=right style="display: flex; flex-direction: column; gap: 10px;">
+    <img align="right" src="https://data.typeracer.com/misc/badge?user=rahulsomani" border="0" alt="TypeRacer.com scorecard for user rahulsomani"/>
+<div align=center style="display: flex; flex-direction: column; gap: 10px;">
     <div style="display: flex; gap: 10px;">
         <br>
     <a href="" >
