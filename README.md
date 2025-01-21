@@ -7,6 +7,7 @@
     </a>
 </div>
 
+
 <div align="center">
     <!-- Contribution Heatmap with Snake Animation -->
     <img src="resources/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
@@ -44,8 +45,7 @@
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
     <img align="left" width="180" src="https://moon-svg.minung.dev/moon.svg?size=135&theme=ray&rotate=0" alt="moon.svg">
-    <img align="right" src="https://data.typeracer.com/misc/badge?user=rahulsomani" border="0" alt="TypeRacer.com scorecard for user rahulsomani"/>
-<div align=center style="display: flex; flex-direction: column; gap: 10px;">
+<div align=right style="display: flex; flex-direction: column; gap: 10px;">
     <div style="display: flex; gap: 10px;">
         <br>
     <a href="" >
@@ -87,31 +87,27 @@
 <br>
 
 <h1 align="left">🧰 Github Stats </h1> 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center; margin: 20px; flex-wrap: wrap;">
-    <!-- Most Used Languages Card -->
-    <div style="flex: 1; max-width: 48%; min-width: 300px; background-color: #1e1e1e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <a href="#gh-dark-mode-only" style="display: block; text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact#gh-dark-mode-only" 
-                 alt="Most Used Languages (Dark)" style="width: 100%; height: auto;">
-        </a>
-        <a href="#gh-light-mode-only" style="display: none;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=vue&layout=compact#gh-light-mode-only" 
-                 alt="Most Used Languages (Light)" style="width: 100%; height: auto;">
-        </a>
-    </div>
-    <!-- GitHub Streak Stats Card -->
-    <div style="flex: 1; max-width: 48%; min-width: 300px; background-color: #1e1e1e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <a href="#gh-dark-mode-only" style="display: block; text-align: center;">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=8&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" 
-                 alt="GitHub Streak (Dark)" style="width: 100%; height: auto;">
-        </a>
-        <a href="#gh-light-mode-only" style="display: none;">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=8&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" 
-                 alt="GitHub Streak (Light)" style="width: 100%; height: auto;">
-        </a>
-    </div>
-</div>
+<div align="center">
+<span align="left">
+    <!--github most used languages-->
+   <a href="#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact#gh-dark-mode-only" alt="Leetcode Stats" style="width: 49%; height: 200px;">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=vue&layout=compact#gh-light-mode-only" alt="Leetcode Stats" style="width: 49%; height: 200px;"> 
+    </a>
+</span>
 
+<span align="right">
+    <!-- Github Streak Stats -->
+    <a href="#gh-dark-mode-only">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=8&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak" style="width: 49%; height: 200px;">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=somani-rahul&border_radius=8&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak" style="width: 49%; height: 200px;">
+    </a>
+</span>
+</div>
 <br>
 <br>
 <h1 align="left">🔖 Featured Repositories</h1> 
